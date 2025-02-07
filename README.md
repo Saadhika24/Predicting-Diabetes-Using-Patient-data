@@ -12,6 +12,11 @@ Diabetic Retinopathy (DR) is a serious eye disease caused by diabetes, which can
   4. Severe DR
   5. Proliferative DR
 - **Annotations**: Each image is labeled according to severity to train the classifiers.
+- ## Dataset Download
+Due to GitHub's file size limitations, the dataset is available on Google Drive.  
+[Download Here]https://drive.google.com/drive/folders/1tIS8rUaa7KD3VDwwGxn1K5eJU-WD9MT7?usp=drive_link
+
+
 
 ## Preprocessing Steps
 - **Image Resizing**: Standardizing all images to a fixed size for input consistency.
