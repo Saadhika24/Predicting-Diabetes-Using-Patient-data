@@ -1,0 +1,13 @@
+TensorFlow
+PyTorch
+Scikit-learn
+XGBoost
+OpenCV
+Pillow (PIL)
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-image
+google.colab
+tqdm
